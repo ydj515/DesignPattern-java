@@ -8,7 +8,7 @@ public class Something {
 	}
 
 	private static class LazyHolder { // getInstance() 호출시 class & 로딩 초기화
-		public static final Something INSTANCE = new Something(); // final Ű����� ��� ó��
+		public static final Something INSTANCE = new Something();
 	}
 
 	public static Something getInstance() {
