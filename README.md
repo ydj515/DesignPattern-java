@@ -23,3 +23,6 @@
 * State
 * Strategy
 * Template Method
+
+
+ffff
