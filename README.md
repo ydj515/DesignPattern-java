@@ -20,7 +20,6 @@
 * Adapter
 * Facade
 * Proxy
-* Adapter
 * Flyweight
 * Bridge
 
