@@ -5,7 +5,7 @@ abstract public class Color implements Cloneable {
 	protected String colorName;
 
 	public void addColor() {
-		System.out.println(colorName + " color added");
+		System.out.println(colorName + " color added"); 
 	}
 
 	public Object clone() {

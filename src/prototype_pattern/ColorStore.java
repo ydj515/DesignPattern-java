@@ -6,7 +6,7 @@ import java.util.Map;
 public class ColorStore {
 	private static Map<String, Color> colorMap = new HashMap<String, Color>();
 
-	static {
+	static { 
 		colorMap.put("blue", new BlueColor());
 		colorMap.put("red", new RedColor());
 	}
