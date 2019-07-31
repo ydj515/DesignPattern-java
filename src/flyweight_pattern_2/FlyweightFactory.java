@@ -1,4 +1,4 @@
-package flyweight_pattern;
+package flyweight_pattern_2;
 
 import java.util.Map;
 import java.util.TreeMap;

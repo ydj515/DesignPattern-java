@@ -1,4 +1,4 @@
-package flyweight_pattern;
+package flyweight_pattern_2;
 
 public class Flyweight {
 	
